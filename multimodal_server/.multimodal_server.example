@@ -1,0 +1,4 @@
+# Multimodal Server
+
+COMFYUI_HOST=localhost
+COMFYUI_PORT=8188
