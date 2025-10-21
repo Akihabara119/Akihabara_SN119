@@ -170,3 +170,5 @@ cognify/miner/proxy/braiins_farm/config/
 /tests/
 /.env.validator
 /data/
+.idea
+.DS_Store
